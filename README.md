@@ -72,7 +72,7 @@ Selesai dengan terminator:
 ![Gambar 1](screenshot/o18.png)
 
 ### Flowchart kasus 1
-![Gambar 1](screenshot/o19.png)
+![Gambar 1](screenshot/o9.png)
 
 ## Program Kalkulator Sederhana
 
