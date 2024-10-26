@@ -33,10 +33,45 @@ Jika user tidak memiliki kartu member:
 ![Gambar 1](screenshot/o8.png)
 
 ## Flowchart kasus 1
-### Langkah 1
-coba
-![Gambar 1](screenshot/o9.png)
 
+### Langkah 1
+Memulai dengan terminator
+![Gambar 1](screenshot/o10.png)
+
+### Langkah 2
+Input tipe tiket yang akan digunakan yakni Reguler dan VIP, input status kepemilikan kartu member: kalau punya "Ya" atau tidak punya "Tidak":
+![Gambar 1](screenshot/o11.png)
+
+### Langkah 3
+Hitung harga tiket yang akan dipesan sesuai pilihan yakni Reguler dan VIP:
+![Gambar 1](screenshot/o12.png)
+
+Untuk VIP:
+![Gambar 1](screenshot/o13.png)
+
+Untuk Reguler:
+![Gambar 1](screenshot/o14.png)
+
+### Langkah 4
+Cek status kartu member user apakah memilikinya atau tidak:
+![Gambar 1](screenshot/o19.png)
+
+Jika memiliki kartu member "Ya" maka diskon 20% akan diterapkan program dan apabila tidak memiliki kartu membar "Tidak" maka diskon tidak akan diterapkan:
+![Gambar 1](screenshot/o15.png)
+
+### Langkah 5
+Hitung semua total harga yang dipesan:
+![Gambar 1](screenshot/o16.png)
+
+### Langkah 6
+Output tampilan total hatga akan keluar:
+![Gambar 1](screenshot/o17.png)
+
+### Langkah 7
+Selesai dengan terminator:
+![Gambar 1](screenshot/o18.png)
+
+### Langkah 5
 
 ## Program Kalkulator Sederhana
 
