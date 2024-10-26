@@ -77,3 +77,19 @@ Selesai dengan terminator:
 ## Program Kalkulator Sederhana
 
 ### Langkah 1
+Input dua angka yang ingin dihitung (angka bisa ditambahkan) misal angka 10 danangka 40 dan input operator (penjumlahan, pengurangan, perkalian, pembagian):
+![Gambar 1](screenshot/o20.png)
+
+### langkah 2
+Setelah memasukan angka yang ingin dihitung, kemudian masukan operator apa saja yang diinginkan misal pembagian. untuk pembagian angka 0 tidak akan menunjukkan hasil/error:
+![Gambar 1](screenshot/o21.png)
+
+Kalau operator yang dimasukkan tidak valid, maka program tidak bisa menyimpan pesan:
+![Gambar 1](screenshot/o22.png)
+
+### Langkah 3
+Setelah penghitungan angka, hasil akan ditampilkan. apabila menghasilkan string maka program mencetak hasil error perhitungan. sebaliknya jika menghasilkan angka, maka program dapat menjalankan operator dan angka yang digunakan:
+![Gambar 1](screenshot/o23.png)
+
+### Hasil 
+![Gambar 1](screenshot/o24.png)
