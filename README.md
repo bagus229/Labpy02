@@ -81,7 +81,7 @@ Input dua angka yang ingin dihitung (angka bisa ditambahkan) misal angka 10 dana
 ![Gambar 1](screenshot/o20.png)
 
 ### langkah 2
-Setelah memasukan angka yang ingin dihitung, kemudian masukan operator apa saja yang diinginkan misal pembagian. untuk pembagian angka 0 tidak akan menunjukkan hasil/error:
+Setelah memasukan angka yang ingin dihitung, kemudian masukan operator apa saja yang diinginkan misal pembagian. untuk pembagian angka 0 tidak akan menunjukkan hasil/error. Program ini menggunakan struktur kontrol if-elif-else untuk menentukan operasi yang akan dilakukan berdasarkan input operator:
 ![Gambar 1](screenshot/o21.png)
 
 Kalau operator yang dimasukkan tidak valid, maka program tidak bisa menyimpan pesan:
@@ -93,3 +93,6 @@ Setelah penghitungan angka, hasil akan ditampilkan. apabila menghasilkan string 
 
 ### Hasil 
 ![Gambar 1](screenshot/o24.png)
+
+## Flowchart Kasus 2
+### Langkah 1
