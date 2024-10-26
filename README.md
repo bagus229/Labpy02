@@ -64,7 +64,7 @@ Hitung semua total harga yang dipesan:
 ![Gambar 1](screenshot/o16.png)
 
 ### Langkah 6
-Output tampilan total hatga akan keluar:
+Output tampilan total harga akan keluar:
 ![Gambar 1](screenshot/o17.png)
 
 ### Langkah 7
