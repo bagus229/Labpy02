@@ -96,3 +96,34 @@ Setelah penghitungan angka, hasil akan ditampilkan. apabila menghasilkan string 
 
 ## Flowchart Kasus 2
 ### Langkah 1
+Memulai dengan terminator
+![Gambar 1](screenshot/o10.png)
+
+### Langkah 2
+Input dua angka yang akan dihitung oleh program:
+![Gambar 1](screenshot/o25.png)
+
+### Langkah 3
+Masukkan operator (penjumlahan,pengurangan,perkalian,pembagian) yang akan dipakai program untuk menghitung:
+![Gambar 1](screenshot/o26.png)
+
+### Langkah 4
+Seleksi operator (+,-,*,/) dengan angka yang sudah diinput:
+![Gambar 1](screenshot/o27.png)
+
+### Langkah 5
+Pembagian: periksa angka2 adalah 0:
+![Gambar 1](screenshot/o28.png)
+
+Jika "Ya" maka tampilan hasil error karena pembagian nol tidak dapat dilakukan:
+![Gambar 1](screenshot/o29.png)
+
+Jika "Tidak" maka lakukan pembagian dan simpan hasilnya:
+![Gambar 1](screenshot/o30.png)
+
+### Langkah 6
+Selesai dengan terminator:
+![Gambar 1](screenshot/o18.png)
+
+### Flowchart Kasus 2
+![Gambar 1](screenshot/o31.png)
