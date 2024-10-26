@@ -71,8 +71,6 @@ Output tampilan total hatga akan keluar:
 Selesai dengan terminator:
 ![Gambar 1](screenshot/o18.png)
 
-### Langkah 5
-
 ## Program Kalkulator Sederhana
 
 ### Langkah 1
