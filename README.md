@@ -71,6 +71,9 @@ Output tampilan total hatga akan keluar:
 Selesai dengan terminator:
 ![Gambar 1](screenshot/o18.png)
 
+### Flowchart kasus 1
+![Gambar 1](screenshot/o19.png)
+
 ## Program Kalkulator Sederhana
 
 ### Langkah 1
